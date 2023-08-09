@@ -1,5 +1,3 @@
----
-
 ## **Handwritten Digit Classification using Unsupervised Learning**
 
 ### **Introduction:**
@@ -41,5 +39,3 @@ The performance of each algorithm varied, with LCA being the standout. However, 
 2. `scripts/`: Python scripts for each of the algorithms: LCA, Mean Shift, and Normalized Cut.
 3. `results/`: Visualizations and metrics evaluations.
 4. `README.md`: Detailed information and instructions to replicate the project.
-
----

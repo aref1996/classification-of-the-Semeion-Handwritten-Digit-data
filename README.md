@@ -33,9 +33,3 @@ In this project, I undertook a classification task on the Semeion Handwritten Di
 
 ### **Conclusion**:
 The performance of each algorithm varied, with LCA being the standout. However, Normalized Cut also proved to be a valuable method due to its interpretability and balance in clustering. Future work might involve utilizing a larger dataset for more robust clustering.
-
-### **Repository Contents**:
-1. `data/`: Folder containing the Semeion Handwritten Digit dataset.
-2. `scripts/`: Python scripts for each of the algorithms: LCA, Mean Shift, and Normalized Cut.
-3. `results/`: Visualizations and metrics evaluations.
-4. `README.md`: Detailed information and instructions to replicate the project.
